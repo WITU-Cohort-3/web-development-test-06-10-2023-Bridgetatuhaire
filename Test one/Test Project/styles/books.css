@@ -1,0 +1,16 @@
+.book {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+.book-title {
+    font-size: 20px;
+}
+.book-color {
+    font-weight: bold;
+}
+.book-image img {
+    max-width: 100%; 
+    height: auto;
+    text-align: center;
+}

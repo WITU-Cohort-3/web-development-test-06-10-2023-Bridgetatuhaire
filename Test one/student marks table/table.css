@@ -1,0 +1,17 @@
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px auto;
+    background-color: palegreen;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+p{
+    color: darkgreen;
+}
+td:nth-child(even), th:nth-child(even) {
+background-color: green;
+}
