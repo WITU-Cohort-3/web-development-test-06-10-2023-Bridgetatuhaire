@@ -1,0 +1,15 @@
+.center-image {
+    display:block; 
+    margin: 0 auto;
+    
+}
+
+food-image {
+    width: 600px; 
+    margin: 30px; 
+    border: 2px solid #000;
+    padding: 10px; 
+    background-color: #fff; 
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); 
+    text-align: center;
+} 
